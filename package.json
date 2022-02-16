@@ -27,7 +27,7 @@
     "google-spreadsheet": "^3.1.15",
     "moment": "^2.29.1",
     "mongoose": "^5.13.7",
-    "nanoid": "^3.1.25",
+    "nanoid": "^3.1.31",
     "node-cron": "^3.0.0",
     "profanity-matcher": "^1.0.1",
     "steamapi": "^2.1.3"
