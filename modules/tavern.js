@@ -64,6 +64,7 @@ let commands = [
                 .addChoice("Warforged", "Warforged")
                 .addChoice("Aasimar", "Aasimar")
                 .addChoice("Tabaxi", "Tabaxi")
+                .addChoice("Fairy", "Fairy")
         )
         .addStringOption(option =>
             option.setName("background")
